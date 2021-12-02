@@ -1,4 +1,4 @@
-1.get_general_info_from_id.py is used to employ tweet api to get detailed information of covid-related tweets.
+1.get_general_info_from_id.py is used to employ tweet api to get detailed information of covid-related tweets.(Download tweet covid dataset from https://github.com/echen102/COVID-19-TweetIDs.)
 2.Data Cleaning + NLP.ipynb is to use NLP to analyze the messgae of tweet.
 3.CovidLSTM.ipynb, CovidLSTM-basetest.ipynb is to use LSTM combined with tweet or other internet data feature to predict the development of covid 19.
 
